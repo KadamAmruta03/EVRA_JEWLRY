@@ -31,6 +31,14 @@
 
 ---
 
+**Backend & Tools (EVRA Jewelry Project):**
+
+- **Node.js:** Runtime environment for development and building.
+- **Vercel:** Deployment platform for hosting the portfolio live.
+- **Git & GitHub:** Version control and project repository management.
+
+---
+
 ## Installation (Portfolio Project)
 
 1. Clone the repository:
