@@ -1,52 +1,65 @@
 # EVRA Jewelry - E-commerce Web Application
-
-[Live Demo on Vercel](https://evra-jewlry.vercel.app/) | [GitHub Repository](https://github.com/KadamAmruta03/EVRA_JEWLRY)
-
-**EVRA Jewelry** is a modern, responsive e-commerce web application built with **React**. This project showcases my skills in front-end development, state management, and dynamic UI design while simulating a small-scale online jewelry store.
+**Live Demo on Vercel:** [https://evra-jewlry.vercel.app/](https://evra-jewlry.vercel.app/)  
+**GitHub Repository:** [EVRA_JEWLRY](https://github.com/KadamAmruta03/EVRA_JEWLRY)
 
 ---
 
-## Features
+## Project Overview
+EVRA Jewelry is a modern, responsive e-commerce web application built with React.  
+This project showcases my skills in **front-end development**, **state management**, and **dynamic UI design** while simulating a small-scale online jewelry store.  
 
-- **Banner & Promotions:** Highlights latest offers and discounts.
-- **Product Catalog:** Dynamic gallery with product images, prices, stock availability, and “View Product” links.
-- **Shopping Cart:** Add/remove items, view cart, and simulate checkout.
-- **Checkout Simulation:** Payment form with card number and CVV input.
-- **Product Details Modal:** View detailed product info in a popup modal.
-- **User Chat:** Interactive chat for customer queries.
-- **Responsive Design:** Optimized for desktop and mobile.
+**User Interaction Flow:**  
+- **Browse Products:** Users can view a grid of jewelry products with images, prices, and stock availability.  
+- **View Product Details:** Clicking on a product opens a detailed modal showing description, manufacturer, price, and stock.  
+- **Add to Cart:** Users can add products to the shopping cart directly from the product card or the details modal. Stock decreases dynamically as items are added.  
+- **Shopping Cart & Checkout:** Users can see the cart contents, remove items, and simulate payment using a checkout form.  
+- **User Chat:** Users can interact with a chat component, select categories (e.g., Necklace, Bangles, Accessories), and type messages for queries or assistance.  
+
+This flow ensures a realistic and interactive online shopping experience while demonstrating dynamic state handling and responsive design.
+
+---
+
+## Key Features & Concepts Applied
+- **Dynamic Product Listing:** Display products with images, price, and stock details  
+- **Shopping Cart:** Real-time cart management using **React Context API**  
+- **Product Details Modal:** View detailed info of products with “Add to Cart” option  
+- **Checkout Form:** Simulated card payment with validation  
+- **Interactive Chat:** User chat component with category and server selection  
+- **Responsive UI & Styling:** CSS-based layout, hover effects, animations  
+- **Routing:** Implemented using **React Router DOM**  
+- **State Management:** **Context API** for global cart management  
+- **Component-based Architecture:** Reusable and modular React components  
+
+---
+
+## Folder & Component Structure
+
+- src/
+- ├─ components/
+- │ ├─ Banner.js # Website header/banner
+- │ ├─ ProductPanel.js # Main product listing with cart integration
+- │ ├─ Product.js # Individual product card
+- │ ├─ ProductDetails.js # Modal for detailed product view
+- │ ├─ ShoppingCart.js # Cart display and checkout form
+- │ ├─ UserChat.js # Interactive user chat
+- │ └─ images/ # Product images
+- ├─ App.js # Main routes setup with BrowserRouter
+- ├─ App.css # Global styling
+- ├─ index.js # App entry point
+- └─ index.css # Base styles
+
 
 ---
 
 ## Technologies Used
-
-- **React** – For building interactive UI components.  
-- **React Router** – For seamless navigation.  
-- **JavaScript & JSX** – Handles dynamic content and interactivity.  
-- **HTML & CSS** – Structure and styling, including CSS modules for component-level styles.  
-- **React Context API** – Global state management for the shopping cart.  
-- **Node.js** – Development environment.  
-- **Vercel** – Hosting platform for live deployment.  
-- **Git & GitHub** – Version control.
+- **Frontend:** React.js, JSX, CSS  
+- **State Management:** React Context API  
+- **Routing:** React Router DOM  
+- **Deployment:** Vercel  
 
 ---
-
-**Backend & Tools (EVRA Jewelry Project):**
-
-- **Node.js:** Runtime environment for development and building.
-- **Vercel:** Deployment platform for hosting the portfolio live.
-- **Git & GitHub:** Version control and project repository management.
-
----
-
-## Installation (Portfolio Project)
-
-1. Clone the repository:
-git clone https://github.com/KadamAmruta03/AMRUTA-S-PORTFOLIO.git
 
 ## Contact
-
-- **Email:** [kadamamruta0555@gmail.com](mailto:kadamamruta0555@gmail.com)  
-- **GitHub:** [https://github.com/KadamAmruta03](https://github.com/KadamAmruta03)  
-- **LinkedIn:** [https://www.linkedin.com/in/amruta-kadam-6b3bbb312](https://www.linkedin.com/in/amruta-kadam-6b3bbb312)
-
+Email: kadamamruta0555@gmail.com  
+GitHub: [https://github.com/KadamAmruta03](https://github.com/KadamAmruta03)  
+LinkedIn: [https://www.linkedin.com/in/amruta-kadam-6b3bbb312](https://www.linkedin.com/in/amruta-kadam-6b3bbb312)
