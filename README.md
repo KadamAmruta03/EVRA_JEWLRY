@@ -31,12 +31,14 @@
 
 ---
 
-## Installation
+## Installation (Portfolio Project)
 
 1. Clone the repository:
-git clone https://github.com/KadamAmruta03/EVRA_JEWLRY.git
-Contact
+git clone https://github.com/KadamAmruta03/AMRUTA-S-PORTFOLIO.git
 
-Email: kadamamruta0555@gmail.com
-GitHub: https://github.com/KadamAmruta03
-LinkedIn: https://www.linkedin.com/in/amruta-kadam-6b3bbb312
+## Contact
+
+- **Email:** [kadamamruta0555@gmail.com](mailto:kadamamruta0555@gmail.com)  
+- **GitHub:** [https://github.com/KadamAmruta03](https://github.com/KadamAmruta03)  
+- **LinkedIn:** [https://www.linkedin.com/in/amruta-kadam-6b3bbb312](https://www.linkedin.com/in/amruta-kadam-6b3bbb312)
+
