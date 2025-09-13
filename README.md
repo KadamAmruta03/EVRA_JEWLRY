@@ -1,9 +1,9 @@
 # EVRA Jewelry - E-commerce Web Application
 [Live E-commerce website](https://evra-jewlry.vercel.app/) | [Evra_jewelry GitHub](https://github.com/KadamAmruta03/EVRA_JEWLRY)
 
-Welcome to my personal portfolio and project showcase! This repository demonstrates my journey in web development and tech projects, highlighting my hands-on experience, skills, and academic achievements.
+EVRA Jewelry is a modern, responsive e-commerce web application built using React. This project simulates a small-scale online jewelry store, allowing users to browse a wide range of jewelry products, view detailed information, and add items to a shopping cart. It demonstrates my skills in front-end development, state management using React Context, and dynamic user interface design.  
 
-This portfolio is built using React, featuring multiple pages, reusable components, and a clean, responsive design. It is fully deployed on Vercel for live access.
+The application features a clean, interactive layout with reusable components, a user chat module for real-time interaction, and a seamless checkout experience. It is fully deployed on Vercel for live access.
 
 ---
 
