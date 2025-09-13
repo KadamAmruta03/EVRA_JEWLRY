@@ -1,6 +1,5 @@
 # EVRA Jewelry - E-commerce Web Application
-[Live E-commerce website] (https://evra-jewlry.vercel.app/](https://evra-jewlry.vercel.app/)  
-[Evra_jewelry GitHub] (EVRA_JEWLRY](https://github.com/KadamAmruta03/EVRA_JEWLRY)
+[Live E-commerce website](https://evra-jewlry.vercel.app/](https://evra-jewlry.vercel.app/) |  [Evra_jewelry GitHub](EVRA_JEWLRY](https://github.com/KadamAmruta03/EVRA_JEWLRY)
 
 ---
 
